@@ -1,0 +1,15 @@
+.imagesize
+{
+    padding-left: 210px;
+    padding-top: 100px;
+    border-style: solid;
+    border-color: aqua;
+    border: 4px;
+    border-radius: px;
+    object-fit: cover;
+    width: 1500px;
+}
+body
+{
+    background-color: rgb(15, 15, 15);
+}
